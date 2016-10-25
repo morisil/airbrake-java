@@ -7,3 +7,5 @@ FEFLOG
 TODO
 bin
 .checkstyle
+.idea
+*.iml
